@@ -1,0 +1,26 @@
+[70547.578002] <percpu_test> <VAR> test_num: 0
+[70547.578002] <percpu_test> <VAR m_obj_size: 4
+[70547.578630] <percpu_test> percpu test 1: start
+[70548.478213] <percpu_test> percpu test 1 alloc took: 		  824 ms
+[70548.478214] <percpu_test> percpu test 1 freeing took: 	   75 ms
+[70548.478214] <percpu_test> percpu test 1 total took: 		  899 ms
+[70548.478980] <percpu_test> kmalloc test 1: start
+[70548.530559] <percpu_test> kmalloc test 1 alloc took: 	   16 ms
+[70548.530560] <percpu_test> kmalloc test 1 freeing took: 	   35 ms
+[70548.530561] <percpu_test> kmalloc test 1 total took: 	   51 ms
+[70548.531039] <percpu_test> percpu test 2: start
+[70549.428785] <percpu_test> percpu test 2 alloc took: 		  819 ms
+[70549.428786] <percpu_test> percpu test 2 freeing took: 	   78 ms
+[70549.428787] <percpu_test> percpu test 2 total took: 		  897 ms
+[70549.429726] <percpu_test> kmalloc test 2: start
+[70549.481995] <percpu_test> kmalloc test 2 alloc took: 	   15 ms
+[70549.481995] <percpu_test> kmalloc test 2 freeing took: 	   36 ms
+[70549.481996] <percpu_test> kmalloc test 2 total took: 	   52 ms
+[70549.482497] <percpu_test> percpu test 3: start
+[70550.385217] <percpu_test> percpu test 3 alloc took: 		  825 ms
+[70550.385218] <percpu_test> percpu test 3 freeing took: 	   77 ms
+[70550.385218] <percpu_test> percpu test 3 total took: 		  902 ms
+[70550.385990] <percpu_test> kmalloc test 3: start
+[70550.437530] <percpu_test> kmalloc test 3 alloc took: 	   15 ms
+[70550.437531] <percpu_test> kmalloc test 3 freeing took: 	   35 ms
+[70550.437532] <percpu_test> kmalloc test 3 total took: 	   51 ms

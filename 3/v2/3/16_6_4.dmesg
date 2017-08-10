@@ -1,0 +1,27 @@
+[  474.527469] <percpu_test> init percpu test module
+[  484.646062] <percpu_test> running test: 5
+[  484.646064] <percpu_test> <VAR> m_iterations: 1024
+[  484.646064] <percpu_test> <VAR> test_num: 5
+[  484.646065] <percpu_test> <VAR> m_obj_size: 16
+[  484.646936] <percpu_test> <VAR> m_fill_level: 4
+[  484.646936] <percpu_test> percpu test 5: start
+[  486.403795] <percpu_test> percpu test 5 alloc took: 		 1578 ms
+[  486.403796] <percpu_test> percpu test 5 alloc 1 took: 	 1064 ms
+[  486.403797] <percpu_test> percpu test 5 alloc 2 took: 	  513 ms
+[  486.403797] <percpu_test> percpu test 5 freeing took: 	  178 ms
+[  486.403798] <percpu_test> percpu test 5 freeing 1 took: 	   70 ms
+[  486.403798] <percpu_test> percpu test 5 freeing 2 took: 	  107 ms
+[  486.403799] <percpu_test> percpu test 5 total took: 		 1756 ms
+[  494.823898] <percpu_test> running test: 6
+[  494.823900] <percpu_test> <VAR> m_iterations: 1024
+[  494.823900] <percpu_test> <VAR> test_num: 6
+[  494.823900] <percpu_test> <VAR> m_obj_size: 16
+[  494.824772] <percpu_test> <VAR> m_fill_level: 4
+[  494.824772] <percpu_test> percpu test 6: start
+[  496.592632] <percpu_test> percpu test 6 alloc took: 		 1591 ms
+[  496.592633] <percpu_test> percpu test 6 alloc 1 took: 	 1073 ms
+[  496.592634] <percpu_test> percpu test 6 alloc 2 took: 	  517 ms
+[  496.592634] <percpu_test> percpu test 6 freeing took: 	  176 ms
+[  496.592635] <percpu_test> percpu test 6 freeing 1 took: 	   69 ms
+[  496.592635] <percpu_test> percpu test 6 freeing 2 took: 	  106 ms
+[  496.592635] <percpu_test> percpu test 6 total took: 		 1767 ms

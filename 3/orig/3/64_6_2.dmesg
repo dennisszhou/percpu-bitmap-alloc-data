@@ -1,0 +1,27 @@
+[  354.780739] <percpu_test> kmalloc test 2 freeing took: 	   73 ms
+[  354.780739] <percpu_test> kmalloc test 2 total took: 	   99 ms
+[  354.781397] <percpu_test> percpu test 3: start
+[  355.284959] <percpu_test> percpu test 3 alloc took: 		  432 ms
+[  355.284960] <percpu_test> percpu test 3 freeing took: 	   71 ms
+[  355.284961] <percpu_test> percpu test 3 total took: 		  503 ms
+[  355.285624] <percpu_test> kmalloc test 3: start
+[  355.357898] <percpu_test> kmalloc test 3 alloc took: 	   26 ms
+[  355.357898] <percpu_test> kmalloc test 3 freeing took: 	   46 ms
+[  355.357899] <percpu_test> kmalloc test 3 total took: 	   72 ms
+[  374.204137] FS-Cache: Loaded
+[  374.287993] FS-Cache: Netfs 'nfs' registered for caching
+[  407.012361] <percpu_test> removed percpu mem test module.
+[  407.033832] <percpu_test> init percpu test module
+[  444.544423] <percpu_test> running test: 6
+[  444.544424] <percpu_test> <VAR> m_iterations: 1024
+[  444.544424] <percpu_test> <VAR> test_num: 6
+[  444.544425] <percpu_test> <VAR> m_obj_size: 64
+[  444.545388] <percpu_test> <VAR> m_fill_level: 2
+[  444.545388] <percpu_test> percpu test 6: start
+[  446.785541] <percpu_test> percpu test 6 alloc took: 		 1856 ms
+[  446.785542] <percpu_test> percpu test 6 alloc 1 took: 	 1161 ms
+[  446.785543] <percpu_test> percpu test 6 alloc 2 took: 	  695 ms
+[  446.785543] <percpu_test> percpu test 6 freeing took: 	  383 ms
+[  446.785544] <percpu_test> percpu test 6 freeing 1 took: 	  193 ms
+[  446.785544] <percpu_test> percpu test 6 freeing 2 took: 	  189 ms
+[  446.785544] <percpu_test> percpu test 6 total took: 		 2240 ms

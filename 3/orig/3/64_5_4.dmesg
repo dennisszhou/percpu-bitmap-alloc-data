@@ -1,0 +1,27 @@
+[   11.071444] iTCO_wdt: unable to reset NO_REBOOT flag, device disabled by hardware/BIOS
+[   11.475969] Adding 2097148k swap on /dev/sda3.  Priority:-1 extents:1 across:2097148k 
+[   11.854440] EXT4-fs (sda2): mounted filesystem with ordered data mode. Opts: (null)
+[   13.588907] Process accounting resumed
+[   24.189502] Process accounting resumed
+[   34.344629] ixgbe 0000:04:00.0 eth0: detected SFP+: 3
+[   34.390255] Process accounting resumed
+[   34.511016] ixgbe 0000:04:00.0 eth0: detected SFP+: 3
+[   35.487014] ixgbe 0000:04:00.0 eth0: NIC Link is Up 10 Gbps, Flow Control: RX/TX
+[   43.175435] random: crng init done
+[   44.642199] Process accounting resumed
+[   61.624739] NFSD: starting 90-second grace period (net ffffffff81ee2980)
+[  243.739561] pcpu_test: loading out-of-tree module taints kernel.
+[  243.752395] <percpu_test> init percpu test module
+[  274.612254] <percpu_test> running test: 5
+[  274.612255] <percpu_test> <VAR> m_iterations: 1024
+[  274.612255] <percpu_test> <VAR> test_num: 5
+[  274.612256] <percpu_test> <VAR> m_obj_size: 64
+[  274.612904] <percpu_test> <VAR> m_fill_level: 4
+[  274.612904] <percpu_test> percpu test 5: start
+[  276.896238] <percpu_test> percpu test 5 alloc took: 		 1659 ms
+[  276.896239] <percpu_test> percpu test 5 alloc 1 took: 	 1019 ms
+[  276.896239] <percpu_test> percpu test 5 alloc 2 took: 	  640 ms
+[  276.896240] <percpu_test> percpu test 5 freeing took: 	  624 ms
+[  276.896240] <percpu_test> percpu test 5 freeing 1 took: 	  283 ms
+[  276.896240] <percpu_test> percpu test 5 freeing 2 took: 	  340 ms
+[  276.896241] <percpu_test> percpu test 5 total took: 		 2283 ms
